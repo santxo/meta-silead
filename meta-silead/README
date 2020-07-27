@@ -1,0 +1,19 @@
+GSL1680 Capacitive touchscreen sensor Layer
+===================================================
+
+This is a touchscreen module driver layer for the Silead gsl1680.
+It was created specially for the Libera device, given that the
+mainline driver would not work as needed. 
+
+Building
+========
+
+
+License
+=======
+
+All metadata is MIT licensed unless otherwise stated. Source code and
+binaries included in tree for individual recipes is under the LICENSE
+stated in each recipe (.bb file) unless otherwise stated.
+
+This README document is Copyright (C) 2020 Infoblock
